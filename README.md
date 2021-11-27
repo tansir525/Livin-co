@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Livin-Co, Home Solution
+
+How to use oue Site:
+- Explore Button you can see all Type of House and details 
+- specific catagory also show house list and price
+- can booking house from catagory
+- can put review from dashboard
+- admin can check all users
+- admin can make another admin
+- admin : admin@admin.com
+- Pass : 123456
+- Live Link: https://livin-co.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
